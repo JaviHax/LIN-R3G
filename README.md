@@ -10,5 +10,7 @@ developed in in Linux-Based operating systems, not tested in Microsoft windows o
 # HOW TO EXECUTE IT?
 
 0- Download it.
+
 1- Open a terminal.
+
 2- Run the following command 'python3 Lin-R3G.py'
