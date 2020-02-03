@@ -1,3 +1,7 @@
+'''
+Desarrollado por Javier "JaviHax" Rivas 2019.
+'''
+
 import matplotlib.pyplot as plt #import del plotter
 import time as tm             #import del time control
 from os import system as sys    #import dela libreria de sistema
